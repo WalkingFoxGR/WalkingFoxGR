@@ -1,16 +1,16 @@
-## Hi there 👋
+# Panagiotis Karampetsos
 
-<!--
-**WalkingFoxGR/WalkingFoxGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI systems, websites and technical SEO. Based in Heraklion, Crete, Greece.
 
-Here are some ideas to get you started:
+I build AI agents and chatbots that answer from a company's own documents and website (RAG), multi-agent systems, and automations that take repetitive work off a team. I also build websites and online shops in Next.js and WordPress, with technical SEO set up from day one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the work:
+
+- **Liberators OS**: an AI agent platform I built from scratch, with RAG, multi-agent teams and human handoff. [os.liberators.ai](https://os.liberators.ai)
+- **Template matching for a shipping company**: upload a vessel's Excel template and it matches each item to the ship's manuals and registers, citing the source file and row.
+- **Invoice matching for a supermarket chain**: reads receipt dates off delivery-note stamps, stamped or handwritten, and matches them to invoices.
+- **Hotel websites**: Next.js sites with schema markup and an AI chatbot grounded on the hotel's own content.
+
+Stack: Python, TypeScript, Next.js, React, Supabase, WordPress, OpenAI / Anthropic / Google models.
+
+Website: [pkarampetsos.com](https://pkarampetsos.com) · LinkedIn: [panagiotiskarampetsos](https://www.linkedin.com/in/panagiotiskarampetsos/) · Email: me@pkarampetsos.com
